@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/alexanderritik/Best-README-Template">
-    <img src="./assets/logo.png" alt="Logo" width="80" height="80">
+    <img src="./assets/icon.png" alt="Logo" width="80" height="80">
   </a>
   <p align="center">
     Store app to sell some football equipment applied in <a href="https://credo.academy/">Credo Academy</a> SwiftUI Masterclass
